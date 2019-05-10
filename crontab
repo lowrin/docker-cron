@@ -1,2 +1,2 @@
-* * * * * root /bin/sh /etc/cron.d/entry.sh > /proc/1/fd/1 2>/proc/1/fd/2
+* * * * * root /bin/bash /etc/cron.d/entry.sh > /proc/1/fd/1 2>/proc/1/fd/2
 # Don't remove the empty line at the end of this file. It is required to run the cron job
